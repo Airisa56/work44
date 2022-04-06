@@ -29,10 +29,10 @@ public class Main {
 
 
         // Задание 3
-         int x= 1896 ;
-        while ( x <= 2054  ) {
+
+        for ( int x = 0; x <= 2100; x= x+ 79) {
             System.out.println( x);
-            x = x+ 79;
+
         }
     }
      }
