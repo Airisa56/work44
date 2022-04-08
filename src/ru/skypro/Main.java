@@ -31,6 +31,7 @@ public class Main {
         // Задание 3
 
         for ( int x = 0; x <= 2100; x= x+ 79) {
+            if ( x> 1850)
             System.out.println( x);
 
         }
